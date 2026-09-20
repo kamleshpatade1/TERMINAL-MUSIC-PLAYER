@@ -24,6 +24,7 @@ function createMenu() {
   }
 
   function startControls(handlers) {
+    console.log('Keyboard controls enabled')
     readline.emitKeypressEvents(process.stdin)
     if (process.stdin.isTTY) process.stdin.setRawMode(true)
     process.stdin.resume()
