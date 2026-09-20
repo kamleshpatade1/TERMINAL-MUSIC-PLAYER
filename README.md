@@ -45,6 +45,8 @@ terminal-music-player/
 ├── package.json
 └── README.md
 
+## Project Status
+The terminal music player is fully functional and ready for use.
+
 BY KAMLESH PATADE 
         - An APP DEV Student from NST 😊
-        
