@@ -1,8 +1,7 @@
 {
   "name": "terminal-music-player",
   "version": "1.0.0",
-  "description": "A beginner-friendly terminal music player",
-  "main": "src/app.js",
+  "description": "A simple and beginner-friendly terminal music player built with Node.js",  "main": "src/app.js",
   "scripts": {
     "start": "node src/app.js"
   }
